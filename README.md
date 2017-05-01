@@ -6,7 +6,6 @@
    ServerAを踏み台にしてServerBにCentOS7とdockerをインストールする手順
 
 
-====
 ＃ ServerBのCentOS7の設定  
 1. IPの設定などを普通に  
 　　　　`nmtui`
