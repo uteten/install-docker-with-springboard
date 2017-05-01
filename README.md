@@ -31,7 +31,7 @@
     `firewall-cmd --permanent --new-zone=docker`  
     `firewall-cmd --permanent --zone=docker --add-source=172.17.0.0/16`  
     `firewall-cmd --permanent --zone=docker --add-port=8080/tcp`
-    `firewall-cmd --reload`
-    `firewall-cmd --list-all-zones`
-    `firewall-cmd --zone=docker --list-all`
+    `firewall-cmd --reload`  
+    `firewall-cmd --list-all-zones`  
+    `firewall-cmd --zone=docker --list-all`  
 
