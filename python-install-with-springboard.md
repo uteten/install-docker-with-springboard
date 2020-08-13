@@ -1,4 +1,4 @@
-# pythonのインストールメモ
+# 踏み台経由のpythonのインストールメモ
 
     docker run -v $PWD:/root --name test -it -d python
     docker exec -it test /bin/bash
