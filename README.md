@@ -1,4 +1,4 @@
-# CentOS 7とdockerをセットアップする手順
+# 踏み台サーバ経由でdockerをセットアップする手順
 
     [Server B] -- ssh --> [Server A] -- 8080 --> internet  
     
